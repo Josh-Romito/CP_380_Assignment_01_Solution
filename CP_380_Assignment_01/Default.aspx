@@ -373,7 +373,7 @@
             </div>
         </div>
 
-        <!--TARA-->
+        <!--Highschool-->
         <div class="well">
             <div class="row">
                 <div class="col-md-12">
