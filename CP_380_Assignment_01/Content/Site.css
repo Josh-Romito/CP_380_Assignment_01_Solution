@@ -52,9 +52,8 @@
 }
 
 .title-location{
-    text-decoration:underline;
-    font-style:italic;
-    
+text-decoration:underline;
+    font-we:500;
 }
 
 .date{
@@ -102,7 +101,7 @@ h2, h3, h4, h5, h6 {
 body {
     padding-top: 80px;
     padding-bottom: 20px;
-    color:#1a1a1a;
+    color:#2c2c2c;
     font-family:'Malgun Gothic';
     font-weight:400;
     font-size:17px;
